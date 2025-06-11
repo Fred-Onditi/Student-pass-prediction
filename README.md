@@ -33,23 +33,6 @@ student-pass-prediction/
 
 Random Forest performed best, so it's used for final predictions.
 
----
-
-## How to Use the Model
-
-1. Clone the repository or download the code.
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-3. Run the Jupyter Notebooks in order:
-   - 01_eda_preprocessing.ipynb
-   - 02_model_training.ipynb
-   - 03_prediction.ipynb
-4. Add new student data to make predictions with the trained model.
-
----
-
 ## Author
 
 Created by Fredrick
